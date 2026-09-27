@@ -1,0 +1,12 @@
+{
+  "name": "love-bot-v6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": { "start": "node index.js" },
+  "engines": { "node": "20.x" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.7.9",
+    "pino": "8.17.2"
+  }
+}
